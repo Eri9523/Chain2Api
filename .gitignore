@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
 # C extensions
 *.so
 
@@ -91,3 +92,6 @@ static/
 
 # Ignore test output
 test-output/
+
+
+!.env.example
